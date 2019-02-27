@@ -1,0 +1,110 @@
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\log4net.dll
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+D:\workspace\Work\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\log4net.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\log4net.dll
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\log4net.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form6.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form2.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form3.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form4.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Controls.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Imaging.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Video.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Math.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Controls.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Imaging.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Video.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\bin\Release\AForge.Math.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Controls.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Imaging.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Video.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\log4net.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Math.dll
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Controls.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Imaging.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Video.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\bin\Release\AForge.Math.xml
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form2.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form3.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form4.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form6.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\ArcsoftFaceTest - 副本\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form5.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe.config
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.exe
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\ArcsoftFaceTest.pdb
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Controls.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Imaging.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Video.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\log4net.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Math.dll
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Controls.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Imaging.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Video.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\bin\Release\AForge.Math.xml
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form1.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form2.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form3.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form4.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form5.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Form6.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计原版\2015210830_于浩正_CSharp课程设计\基于人脸识别的签到系统\ArcsoftFaceTest\obj\x86\Release\ArcsoftFaceTest.csproj.GenerateResource.Cache
