@@ -1,0 +1,65 @@
+﻿[2018-04-28 10:50:48,683]  8 -- ERROR -- detect [WriteErrorLog] -- 值不能为 null。
+参数名: source
+   在 System.Runtime.InteropServices.Marshal.CopyToManaged(IntPtr source, Object destination, Int32 startIndex, Int32 length)
+   在 System.Runtime.InteropServices.Marshal.Copy(IntPtr source, Byte[] destination, Int32 startIndex, Int32 length)
+   在 ArcsoftFaceTest.Form1.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\ArcsoftFaceTest\Form1.cs:行号 400
+[2018-06-17 18:18:13,459]  10 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 18:20:06,701]  8 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 21:06:02,800]  8 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 255
+[2018-06-17 21:09:04,663]  10 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 253
+[2018-06-17 21:14:00,696]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 260
+[2018-06-17 21:17:55,708]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 260
+[2018-06-17 21:22:13,350]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 262
+[2018-06-17 21:24:37,991]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 262
+[2018-06-17 21:40:58,818]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 258
+[2018-06-17 21:43:33,607]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 258
+[2018-06-17 21:50:29,652]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 21:51:11,116]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 21:52:00,370]  9 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 21:52:25,743]  10 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
+[2018-06-17 21:55:05,871]  8 -- ERROR -- detect [WriteErrorLog] -- 参数无效。
+   在 System.Drawing.Image.get_Width()
+   在 System.Drawing.Bitmap..ctor(Image original)
+   在 ArcsoftFaceTest.Form6.detectAndExtractFeature(Image imageParam, Int32 firstSecondFlg) 位置 C:\Users\dell20150825\Desktop\ArcsoftFaceTest\ArcsoftFaceTest\Form6.cs:行号 252
